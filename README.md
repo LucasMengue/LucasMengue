@@ -1,7 +1,7 @@
 ### Hi there, Lucas Mengue here 👋
 ---
 
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning ReactJS
 - 👨‍💻 I’m looking to collaborate on web projects
 - 💬 Ask me about anything
 - 📫 How to reach me: lucasmengue96@hotmail.com
